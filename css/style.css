@@ -1,0 +1,25 @@
+
+
+body {
+  background-color: #999;
+}
+
+#table {
+  width: 50%;
+  margin: auto;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+td {
+  padding: 5px 15px;
+}
+
+td input{
+  margin: auto;
+  width: 100%;
+
+}
